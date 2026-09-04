@@ -10,7 +10,7 @@ Client
 Client: Ethan Brooks
 Email: ethan@katahdintrail.example
 Phone: 207-555-0104
-Audience
+Audience:
 Families, 
 tourists, 
 beginners, and 
