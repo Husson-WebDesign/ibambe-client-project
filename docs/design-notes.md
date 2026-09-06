@@ -2,7 +2,7 @@
 
 ## Developer
 
-Ketsia Ibambe
+Ketsia  Ibambe
 
 ## Initial Thoughts
 
