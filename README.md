@@ -1,5 +1,3 @@
-# Katahdin Trail & Paddle
-
 # Client Website Project
 
 ## Developer
