@@ -1,29 +1,34 @@
 # Katahdin Trail & Paddle
 
-Starter repository for the Web Design Client Project.
+# Client Website Project
 
-## Business Information
+## Developer
 
-**Business Type:**  
-Outdoor equipment rental and guided adventure company
+Ketsia Ibambe
 
-## Client
+## Course
 
-**Client:** Ethan Brooks  
-**Email:** ethan@katahdintrail.example  
-**Phone:** 207-555-0104
+Web Design
 
-## Target Audience
+## Project
 
-- Families
-- Tourists
-- Beginners
-- Outdoor enthusiasts
+This repository contains my semester client website project.
 
-## Required Pages
+## Technologies
 
-- Home
-- About
-- Rentals
-- Guided Trips
-- Contact
+This project will eventually use:
+
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+
+## Project Status
+
+- [x] Lab 0 - Development Environment Setup
+- [] Lab 1 - HTML Structure
+- [ ] Lab 2 - CSS Design
+- [ ] Responsive Design
+- [ ] JavaScript
+- [ ] Final Client Website
